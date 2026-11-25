@@ -1,0 +1,5 @@
+numpy==2.0.1
+Shapely==2.1.2
+pyproj==3.7.2
+matplotlib==3.10.3
+numba==0.62.1
